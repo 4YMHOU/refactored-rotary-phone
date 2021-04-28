@@ -1,2 +1,0 @@
-# refactored-rotary-phone
-project
